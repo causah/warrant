@@ -1,4 +1,8 @@
-.nav{
+* {
+    box-sizing: border-box;
+}
+
+.nav {
     font-family: fantasy;
     background-color: greenyellow;
     text-align: center;
